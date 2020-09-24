@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,29 +191,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="530" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1600986011517">
+    <state x="530" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1600988860162">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="530" y="88" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1600986011517" />
+    <state x="530" y="88" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1600988860162" />
     <state x="583" y="328" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600984402547">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="583" y="328" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.30.1536.834@0.30.1536.834" timestamp="1600984402547" />
-    <state width="1481" height="198" key="GridCell.Tab.0.bottom" timestamp="1600988470965">
+    <state width="1481" height="198" key="GridCell.Tab.0.bottom" timestamp="1600988729166">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1481" height="198" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1600988470965" />
-    <state width="1481" height="198" key="GridCell.Tab.0.center" timestamp="1600988470965">
+    <state width="1481" height="198" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1600988729166" />
+    <state width="1481" height="198" key="GridCell.Tab.0.center" timestamp="1600988729166">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1481" height="198" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1600988470965" />
-    <state width="1481" height="198" key="GridCell.Tab.0.left" timestamp="1600988470965">
+    <state width="1481" height="198" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1600988729166" />
+    <state width="1481" height="198" key="GridCell.Tab.0.left" timestamp="1600988729166">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1481" height="198" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1600988470965" />
-    <state width="1481" height="198" key="GridCell.Tab.0.right" timestamp="1600988470965">
+    <state width="1481" height="198" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1600988729166" />
+    <state width="1481" height="198" key="GridCell.Tab.0.right" timestamp="1600988729166">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state width="1481" height="198" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1600988470965" />
+    <state width="1481" height="198" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1600988729166" />
   </component>
 </project>
